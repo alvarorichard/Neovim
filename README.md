@@ -44,8 +44,8 @@ To update all the plugins, you can run:
 ```
 ## Usage
 
-* The leader key is set to space (" ").
-* Press <leader>pv to execute a specific Ex command (to be defined).
+* The leader key is set to space (" ")
+* Press <leader>pv to execute a specific Ex command (to be defined)
   
 ## Contributing
 
