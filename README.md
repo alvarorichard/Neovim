@@ -16,7 +16,7 @@ This repository contains my personal configuration for Neovim. This setup aims t
   
 ## Requirements
 
-* Neovim >= 0.5
+* Neovim >= 0.8
 * packer.nvim for plugin management.
 * git to clone some of the plugins.
 
